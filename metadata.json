@@ -1,0 +1,6 @@
+{
+  "name": "HANDILINK - Bagobo-Tagabawa Cultural Commerce & Artisan Platform",
+  "description": "Preserving Bagobo-Tagabawa cultural heritage and empowering BIBATAWA indigenous women weavers through digital commerce, proposals, and production management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
